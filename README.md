@@ -1,0 +1,2 @@
+# js-bugget-controller
+A budget controller is a financial expert who provides leadership in areas of budgeting and financial planning. He prepares, develops, analyzes, implements budget, takes into consideration the future financial requirement of the organization, and makes necessary provisions. His role is to decide and allocate finance for projects and control expenses to achieve marginal difference between the percentage of revenue and expenditures. 
